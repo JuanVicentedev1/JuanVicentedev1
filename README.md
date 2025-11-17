@@ -6,8 +6,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250">
 </p>
 
-- 👨‍💻 I am **Juan Vicente** and I am a **Full-Stack Developer**
-- 🚀 Specialized in **TypeScript**, **Node.js**, and **Nest.js** ecosystem
+- 👨‍💻 I am **Juan Vicente** and I am a **Back-end Developer**
+- 🚀 Studying and prioritizing **TypeScript**, **Node.js**, and **Nest.js** ecosystem
 - 
 
 ### 🛠️ Tech Stack:
@@ -32,6 +32,5 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![Insomnia](images/insomnia-screenshot.png)
 
