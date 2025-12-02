@@ -28,6 +28,9 @@
 
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=007396)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
 
 
 
