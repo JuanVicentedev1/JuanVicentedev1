@@ -7,7 +7,7 @@
 </p>
 
 - 👨‍💻 I am **Juan Vicente** and I am a **Back-end Developer**
-- 🚀 Studying and prioritizing **TypeScript**, **Node.js**, and **Nest.js** ecosystem
+- 🚀 Studying and prioritizing **Java**, **Spring Boot**
 - 
 
 ### 🛠️ Tech Stack:
@@ -17,16 +17,16 @@
 
 **Backend Development:**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
+
 
 
 **Database & ORM:**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=fff)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+
 
 **DevOps & Tools:**
 
