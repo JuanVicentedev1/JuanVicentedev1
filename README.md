@@ -17,18 +17,8 @@
 
 **Backend Development:**
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
-
-![Java](https://img.shields.io/badge/Java-0A4C8A?style=for-the-badge&logo=java&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=java&logoColor=f89820)
-
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=007396)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 
 
 
